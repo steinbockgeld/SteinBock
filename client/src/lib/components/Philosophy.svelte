@@ -3,7 +3,7 @@
 
 Wir wissen nicht genau wieviele von den Aussagen 100 prozentig korrekt sind.
 <p><br /></p>
-Bitte prüfen Sie bei Interesse selbst.
+Bitte prüfe bei Interesse selbst.
 <p><br /><br /><br /></p>
 
 <div class="iframediv">
@@ -19,10 +19,8 @@ Bitte prüfen Sie bei Interesse selbst.
 </div>
 <p><br /><br /><br /></p>
 <h4>Zensur</h4>
-Wir haben davon abgesehen unsere Domains zensurresistent per<a
-	href="https://ens.domains"
-	target="_blank">ens.domains</a
->
+Wir haben davon abgesehen unsere Domains zensurresistent per
+<a href="https://ens.domains" target="_blank">ens.domains</a>
 & IPFS bereitzustellen. Wir hoffen, dass wir trotz aller
 <a href="https://www.youtube.com/watch?v=oPZK3l93LyI" target="_blank">Staatskriminalität</a>
 der zurückliegenden Jahre auf legalem Weg Architekturen der Freiheit fördern können.
@@ -96,8 +94,8 @@ mit sehr kleinen Beträgen zu experimentieren.
 <p><br /></p>
 Gerade für Neueinsteiger gab es zumindest bisher ein hohes Risiko von Scammern abgezockt zu werden.
 <p><br /></p>
-Falls im Internet oder im echten Leben Leute auftauchen, die sich als Verantwortliche
-für unsere Seiten ausgeben, handelt es sich vielleicht um Scammer.
+Falls im Internet oder im echten Leben Leute auftauchen, die sich als Verantwortliche für unsere Seiten
+ausgeben, handelt es sich vielleicht um Scammer.
 
 <p><br /></p>
 
@@ -139,6 +137,6 @@ Unsere Projekte sind
 	smart contract basiertes Content Moderationssystem für das hier eingebettete
 	<a href="https://freedomlog.de" target="_blank">Freedomlog.de</a> einzuführen.
 	<p><br /></p>
-	Prototypisch haben wir ein solches dezentrales Content Moderationssystem im Rahmen des
-	FreedomTribunal Smart Contract's implementiert.
+	Prototypisch haben wir ein solches dezentrales Content Moderationssystem im Rahmen des FreedomTribunal
+	Smart Contract's implementiert.
 </div>

@@ -245,7 +245,7 @@
 							</a>
 						</td>
 					</tr>
-					<tr>
+					<!-- <tr>
 						<td>
 							<a
 								href="https://polygonscan.com/token/0x099471B71c9D8b0C6b616eE9A7C645e22cA9cfF7"
@@ -281,7 +281,7 @@
 								9.000.000.000 Coins
 							</a>
 						</td>
-					</tr>
+					</tr> -->
 				</table>
 			</div>
 
