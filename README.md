@@ -11,10 +11,10 @@ Wir fördern Architekturen der Freiheit.
 Wir sind Freunde von Satoshi.  
 Chancellor on brink of second bailout for banks.
   
-![chancellor-on-brink-of-second-bailout-for-banks](https://github.com/user-attachments/assets/a9b421da-1534-462e-b16a-18a1e5537284)
+![chancellor-on-brink-of-second-bailout-for-banks](https://github.com/user-attachments/assets/3ea4a514-fd42-46d2-9b71-3e88d74efa69)
 
-![chancellor-on-brink-of-second-bailout-for-banks-starter](https://github.com/user-attachments/assets/64fdec7b-1864-46ee-8dcb-31dd21902e6c)
+![chancellor-on-brink-of-second-bailout-for-banks-starter](https://github.com/user-attachments/assets/cdfefae5-d9d5-4b6d-97ae-9f96d2020193)
    
-![steinbock](https://github.com/user-attachments/assets/6c4af7cf-3c5c-4b45-8230-28eb95791d8b)
+![steinbock](https://github.com/user-attachments/assets/77d8ea53-a368-4477-8389-b5d48a7f74f2)
   
 Wir sind frei.   
