@@ -5,22 +5,22 @@
 <footer>
 	<div class="container">
 		<span>
+			<a class="underline" href="https://privacy-is-not-a-crime.de" target="_blank" rel="noopener"
+			>Privacy</a
+			>
+			
+		</span>
+		<span>•</span>
+		<span>
 			<a
 				class="underline"
 				href="https://github.com/steinbock500/steinbock500"
 				target="_blank"
-				rel="noopener">GitHub Code</a
+				rel="noopener">Code</a
 			>
 		</span>
 		<span>•</span>
-		<span>
-			<a class="underline" href="https://privacy-is-not-a-crime.de" target="_blank" rel="noopener"
-				>Freiheit</a
-			>
-
-		</span>
-		<span>•</span>
-		<span><a href="/philosophy">Impressum</a></span>
+		<span><a href="https://philoro.ch/swiss-wildlife" target="_blank">Wildlife</a></span>
 	</div>
 </footer>
 
