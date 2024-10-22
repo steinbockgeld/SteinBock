@@ -30,7 +30,7 @@
 							<img
 							style="border-radius: 50%;"
 							alt="Logo"
-							src="https://github.com/user-attachments/assets/6c4af7cf-3c5c-4b45-8230-28eb95791d8b"
+							src="https://github.com/user-attachments/assets/77d8ea53-a368-4477-8389-b5d48a7f74f2"
 							/>
 						</a>
 					</Link>

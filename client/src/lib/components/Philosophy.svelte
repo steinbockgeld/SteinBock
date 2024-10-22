@@ -64,7 +64,7 @@ Da wir Respekt für alle Menschen überall auf der Welt haben, glauben wir, dass
 <a href="https://www.house-of-satoshi.ch/" target="_blank">
 	<h6>House of Satoshi</h6>
 	<img
-		src="https://github.com/user-attachments/assets/7ba42f58-43e8-43c3-b7f0-a67b90d32520"
+		src="https://github.com/user-attachments/assets/f547a8f4-4167-4e7e-8ba2-c0fe2ef857dc"
 		alt=""
 	/>
 </a>.

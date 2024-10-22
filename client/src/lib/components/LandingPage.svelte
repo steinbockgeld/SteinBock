@@ -40,7 +40,7 @@
 	<div class="center">
 		<a href="https://de.wikipedia.org/wiki/Kanton_(Schweiz)" target="_blank">
 			<!-- <h6>House of Satoshi</h6> -->
-			<img src="https://github.com/user-attachments/assets/6b77252c-d6f0-4740-9799-e08748b738ae" alt="" />
+			<img src="https://github.com/user-attachments/assets/db82f265-257e-49df-99b7-550e08effee6" alt="" />
 		</a>
 	</div>
 	<!-- 	
